@@ -1,4 +1,7 @@
 print("Welcome to our Calculator")
+
+print("Other features will we added soon")
+
 def addition(a,b):
     return a+b
 
@@ -32,4 +35,5 @@ while True:
         print("Division of two numbers: ",number2+number2)
     elif(option==5):
         break
+
 print("Thank you for using  our calculator")
