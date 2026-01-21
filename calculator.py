@@ -1,6 +1,6 @@
 print("Welcome to our Calculator")
 
-print("Other features will we added soon")
+print("Features")
 
 def addition(a,b):
     return a+b
